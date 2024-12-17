@@ -1,5 +1,5 @@
 
-# PDF Creator - Gearset Software Engineering Internship 2025 Assessment
+# PDF Generator - Gearset Software Engineering Internship 2025 Assessment
 
 This project is a PDF creator application developed as part of Gearset Software Engineering Internship 2025 assessment. It takes input from a text file, processes formatting commands, and generates a PDF document with the specified formatting and layout. 
 
